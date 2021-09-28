@@ -1,5 +1,6 @@
 # Vue3 練習
-對於 Element ui plus Message 組件參考作法練習 Vue3。
+參考 Element ui plus Message 組件作法練習 Vue3。
+[Element ui plus](https://github.com/element-plus/element-plus)
 
 # Vue 3 + Vite
 
